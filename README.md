@@ -101,22 +101,10 @@ The testbench simulates the behavior of the UART transmitter under the following
 1. The `uart_tr` module can be synthesized for FPGA or ASIC designs.
 2. Ensure the input clock frequency (`BCLK`) matches the desired baud rate for accurate operation.
 
----
 
 ## License
 
 This project is licensed under the CERN-OHL-P v2.0. See the [LICENSE](https://cern.ch/cern-ohl-p) for details.
 
-## Author
-
-- **Arsalan Dabbagh**
-  - Field: FPGA, ASIC, Embedded Systems Design
-  - Contact: [Your Contact Info Here]
-
-## Acknowledgments
-
-Special thanks to contributors and reviewers who helped in refining this project.
-
----
 
 
