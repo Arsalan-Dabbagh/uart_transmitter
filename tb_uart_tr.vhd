@@ -1,0 +1,24 @@
+----------------------------------------------------------------------------------
+-- Engineer: Arsalan Dabbagh
+-- 
+-- Create Date: 06/01/2025
+-- Module Name: tb_uart_tr
+-- Project Name: uart_transmitter
+-- Description: 
+-- Testbench for UART transmitter.  
+-- 
+--
+-- Dependencies:
+-- - IEEE.STD_LOGIC_1164 
+-- - IEEE.NUMERIC_STD 
+--
+-- 
+-- Revision History:
+-- Revision 0.01 - File Created
+-- 
+-- 
+-- Additional Comments:
+--
+--
+----------------------------------------------------------------------------------
+
